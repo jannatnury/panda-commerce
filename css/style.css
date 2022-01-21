@@ -1,6 +1,19 @@
 #body{
     /* background-color:lightyellow; */
 }
+/* Categories section styles  */
+#categories-1{
+    background-color: yellow;
+    border-radius: 15px;
+}
+#categories-2{
+    background-color: #FF136F;
+    border-radius: 15px;
+}
+#categories-3{
+    background-color: #4289FF;
+    border-radius: 15px;
+}
 .bg-banner{
     background-color:#FEEAE9;
     border-radius: 15px;
@@ -26,6 +39,5 @@
     padding: 10px ;
 }
 #foo-clr{
-    background-color: #FFF2F1;
-    ;
+    background-color: #FEEAE9;
 }
