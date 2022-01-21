@@ -1,3 +1,6 @@
+#body{
+    /* background-color:lightyellow; */
+}
 .bg-banner{
     background-color:#FEEAE9;
     border-radius: 15px;
@@ -9,4 +12,20 @@
 .shoes{
     border-radius: 15px;
     border-radius: 0;
+}
+/* Card Styles  */
+#card{
+    border: 0;
+    border-radius: 15px;
+}
+#btn-shoes{
+    color: white;
+    background-color: black;
+    border: 0;
+    border-radius: 20px;
+    padding: 10px ;
+}
+#foo-clr{
+    background-color: #FFF2F1;
+    ;
 }
